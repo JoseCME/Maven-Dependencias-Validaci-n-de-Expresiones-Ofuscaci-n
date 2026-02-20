@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Peek: " + stack.peek());
         System.out.println("Pop: " + stack.pop());
         System.out.println("Vacia? " + stack.isEmpty());
-        System.out.println("Pop: " + stack.pop());
+        System.out.println("Pop: " + stack.pop());	
         System.out.println("Vacia? " + stack.isEmpty());
         System.out.println("Pop: " + stack.pop());
 
